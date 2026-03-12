@@ -1,31 +1,8 @@
-# Tips Regression
+# Machine Learning Practice
 
-This is a small regression practice project using the seaborn `tips` dataset.
+This repository includes small machine learning exercises that I do while learning different concepts and trying different datasets.
 
-## What I used
+## Contents
 
-- pandas
-- seaborn
-- matplotlib
-- scikit-learn
-
-## Models included
-
-- Linear Regression
-- Polynomial Regression
-- LassoCV
-- RidgeCV
-- ElasticNetCV
-
-## Goal
-
-The main goal of this study is to practice:
-- data preprocessing
-- train-test split
-- scaling
-- regression models
-- model evaluation
-
-## Notes
-
-This is a practice study created while learning machine learning concepts.
+- `tips_regression`  
+  A small regression practice using the seaborn `tips` dataset.
