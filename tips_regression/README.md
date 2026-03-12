@@ -1,3 +1,8 @@
-# Tips Regression
+# Machine Learning Practice
 
-This folder contains a small regression practice project using the seaborn tips dataset.
+This repository includes small machine learning exercises that I do while learning different concepts and trying different datasets.
+
+## Contents
+
+- `tips_regression`  
+  A small regression practice using the seaborn `tips` dataset.
